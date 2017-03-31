@@ -1,0 +1,3 @@
+[
+    { "keys": ["Ctrl+F4"], "command": "open_current_path_with_editor" }
+]
